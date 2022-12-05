@@ -1,2 +1,2 @@
-# restorable-python
-Restorable objects and context managers
+# Restorable (Python)
+Restorable objects, configuration, and modules

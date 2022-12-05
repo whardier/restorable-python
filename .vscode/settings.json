@@ -1,0 +1,5 @@
+{
+    "autoDocstring.docstringFormat": "sphinx",
+    "rewrap.autoWrap.enabled": true,
+    "rewrap.wrappingColumn": 120
+}
